@@ -4,7 +4,7 @@
   "start": "react-scripts start",
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
-  "homepage": "https://AdityaGujrati.github.io/react-gh-pages",
+  "homepage": "https://AdityaGujrati.github.io/Social-Media-App",
   "private": true,
   "dependencies": {
     "@syncfusion/ej2": "^19.4.48",
